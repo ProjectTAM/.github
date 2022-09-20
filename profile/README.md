@@ -1,3 +1,3 @@
-# ProjectTAM
+# ProjectTAM-Public
 
 We build something.
